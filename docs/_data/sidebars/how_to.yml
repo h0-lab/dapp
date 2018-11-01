@@ -27,5 +27,5 @@ entries:
     - title: Using artifacts
       url: /how_to/artifacts.html
 
-    - title: Distributed build
+    - title: Distributed build with GitLab
       url: /how_to/distributed_build.html
